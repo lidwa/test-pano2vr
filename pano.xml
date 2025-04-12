@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour hassounds="0" start="node2" apprev="20995" appversion="7.1.9">
+  <panorama id="node2">
+    <input levelbias="0.400" height="896" levelbiashidpi="1.000" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" overlap="1" width="896" levelingpitch="0" levelingroll="0">
+      <level height="896" predecode="0" preload="0" width="896"/>
+      <level height="448" predecode="1" preload="1" width="448"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max scaletofit="1" fov="140" tilt="90" pan="360" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata description="" heading="0" author="" nodeid="node2" copyright="" source="" tags="musee" latitude="36.613956" longitude="10.122541" comment="" customnodeid="" datetime="18/03/2025 11:23" info="" title=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label height="20" wordwrap="1" borderalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" bordercolor="0x000000" width="180" border="1" enabled="1" textalpha="1" backgroundalpha="1" background="1" borderradius="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media>
+      <image fov="30.000" stretch="1.000" height="3000" tilt="20.610" popoutscaling="100" id="Element01" hidepinned="0" handcursor="0" width="4000" rotx="18.000" clickmode="4" rotz="1.000" pan="-252.680" roty="0.000" popbackmode="0">
+        <source url="media/20250318_095632-1.jpg"/>
+      </image>
+      <image fov="30.000" stretch="1.000" height="3000" tilt="-0.600" popoutscaling="100" id="Element02" hidepinned="0" handcursor="0" width="4000" rotx="0.000" clickmode="1" rotz="0.000" pan="-179.740" roty="0.000" popbackmode="0">
+        <source url="media/20250318_100422-1.jpg"/>
+      </image>
+      <image fov="21.231" stretch="1.180" height="3000" tilt="2.340" popoutscaling="100" id="Element03" hidepinned="0" handcursor="0" width="4000" rotx="-26.806" clickmode="0" rotz="2.085" pan="14.028" roty="13.405" popbackmode="0">
+        <source url="media/20250318_102042.jpg"/>
+      </image>
+    </media>
+    <transition zoomfov="40" zoomoutpause="1" zoomafteroutfov="40" zoomout="0" blendcolor="0x000000" type="crossdissolve" zoomafterinfov="140" delay="none" softedge="0" zoomin="0" enabled="1" zoomspeed="2" blendtime="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control contextfullscreen="1" dblclickfullscreen="0" invertcontrol="1" hideabout="0" contextprojections="0" sensitivity="8" simulatemass="1" lockedmouse="0" lockedkeyboard="0" rubberband="0" lockedwheel="0" invertwheel="0" lockedkeyboardzoom="0" speedwheel="1" contextvr="1" zoomcentercursor="1"/>
+  </panorama>
+  <masternode>
+    <userdata description="" comment="" author="" title="" copyright="" tags=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
