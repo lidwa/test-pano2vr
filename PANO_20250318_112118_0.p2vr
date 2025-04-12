@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Pano2VR project file  -->
+<pano2vrconfig rev="20995" version="7.1.9">
+  <tour>
+    <panorama>
+      <projectsettings>
+        <userdata>
+          <customprops/>
+        </userdata>
+        <mapgrid>
+          <anchor/>
+        </mapgrid>
+        <floorplangrid>
+          <anchor/>
+        </floorplangrid>
+      </projectsettings>
+      <input>
+        <patch/>
+        <type>auto</type>
+        <filename>C:/Users/walid/Dropbox/Travail 2024-2025/musee/PANO_20250318_112118_0.jpg</filename>
+        <videotype>equi</videotype>
+        <levelpitch>0</levelpitch>
+        <levelroll>0</levelroll>
+      </input>
+      <viewingparameter>
+        <pan/>
+        <tilt/>
+        <fov/>
+        <flyinstart/>
+        <pannorth>0</pannorth>
+      </viewingparameter>
+      <userdata>
+        <customprops/>
+        <capturedatetime>2025-03-18T11:23:41</capturedatetime>
+        <latitude>36.613956</latitude>
+        <longitude>10.122541</longitude>
+        <altitude>-10000</altitude>
+        <datetime>18/03/2025 11:23</datetime>
+        <tags>musee</tags>
+      </userdata>
+      <floorplans/>
+      <hotspots/>
+      <output/>
+      <streetview/>
+      <streetviewproject/>
+      <ggloudproject/>
+      <sounds/>
+      <id>node2</id>
+    </panorama>
+    <start>node2</start>
+  </tour>
+  <panorama>
+    <id>master</id>
+    <input>
+      <patch/>
+    </input>
+    <viewingparameter>
+      <pan/>
+      <tilt/>
+      <fov/>
+      <flyinstart/>
+    </viewingparameter>
+    <userdata>
+      <customprops/>
+    </userdata>
+    <projectsettings>
+      <userdata>
+        <customprops/>
+      </userdata>
+      <mapgrid>
+        <anchor/>
+      </mapgrid>
+      <floorplangrid>
+        <anchor/>
+      </floorplangrid>
+      <translationsavailable>
+        <value id="Projet">fr-FR</value>
+      </translationsavailable>
+      <translationsnames>
+        <value id="Projet">français</value>
+      </translationsnames>
+      <translationsenabled>
+        <value id="Projet">true</value>
+      </translationsenabled>
+    </projectsettings>
+    <floorplans/>
+    <hotspots/>
+    <output/>
+    <streetview/>
+    <streetviewproject/>
+    <ggloudproject/>
+    <sounds/>
+    <animation>
+      <title>Animation01</title>
+      <sequence/>
+    </animation>
+  </panorama>
+</pano2vrconfig>
